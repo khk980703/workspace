@@ -21,7 +21,18 @@ Tech :
       Yes a lot! I've learn many new commands that I did not know of and got to practise a bunch. Starting to get confident with the commands.
 
   Version Control with Git:
-    - 
+    - What's the difference between Git and GitHub?
+      Git is the version control software meaning it makes the push, pull and all the other actions work to communicate with one and another.
+      Github is the service company that we could visually access through website.
+    
+    - Can you think of an analogy to describe them?
+      Not a perfect analogy, but Github could be the social media we use everyday lives like Facebook and Git could be the software used for it.
+
+    - Do you think you would still remember the difference a week from now if you didn't revisit the material?
+      Yes, I believe I've understand the difference between the two well enough.
+    
+    - Did you stick to the timebox suggestions? If not, why not?
+      Yes, I managed my time well.
 
     
 
