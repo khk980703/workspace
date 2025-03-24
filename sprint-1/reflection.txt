@@ -1,0 +1,14 @@
+Tech :
+  
+  I've spent my time playing around with all the commands that I've learnt throughout the video including pushing to the github.
+  I've deleted the repository made in the video and made a new one with called "workspace" and created all the sprint files for me to access the files efficiently for the future.
+  
+  Command Line:
+    - How would you describe the command line in plain English in a couple of sentences? Can you think of an analogy for it?
+      I would say command line could be described as a primitive method of interacting directories and files on our local system.
+
+    - Did you stick to the timebox guidelines? If not, what change would you make next time?
+      I managed to stick most of them to the timebox guidelines, however I've spent a long time organizing the folders and files including pushing to the github.
+    
+
+Human Skills:
