@@ -49,5 +49,15 @@ Tech :
     - How would you describe stage and commit to your non-tech-savvy friend?
         I would explain it something like, stage is like an unapproved work and commit is approved work.
 
+  Branch, Pull, Merge:
+    - What is main?
+        Main is the origin branch that is created when the repository is first made locally.
+    
+    - Why create a branch?
+        Creating a branch makes it effiecient to collaborate with others to work on a project without over working others work.
+    
+    - Do the concepts introduced feel intuitive or difficult to understand?
+        I had a little trouble understanding what remote is. I've done some research to clarify my understanding and was no problem.
+
 
 Human Skills:
