@@ -5,35 +5,45 @@ Tech :
   
   Command Line:
     - How would you describe the command line in plain English in a couple of sentences? Can you think of an analogy for it?
-      I would say command line could be described as a primitive method of interacting directories and files on our local system.
+        I would say command line could be described as a primitive method of interacting directories and files on our local system.
 
     - Did you stick to the timebox guidelines? If not, what change would you make next time?
-      I managed to stick most of them to the timebox guidelines, however I've spent a long time organizing the folders and files including pushing to the github.
+        I managed to stick most of them to the timebox guidelines, however I've spent a long time organizing the folders and files including pushing to the github.
 
     - Name five commands you used and what they do.
-      cd = changes the directory that you are in to a different one.
-      mkdir = make a new directory.
-      mv = changes the name of the file or the directory.
-      ls = lists the file and directories of the directory you are in.
-      cat = outputs the contents of the file.
+        cd = changes the directory that you are in to a different one.
+        mkdir = make a new directory.
+        mv = changes the name of the file or the directory.
+        ls = lists the file and directories of the directory you are in.
+        cat = outputs the contents of the file.
 
     - Did you learn anything unexpected?
-      Yes a lot! I've learn many new commands that I did not know of and got to practise a bunch. Starting to get confident with the commands.
+        Yes a lot! I've learn many new commands that I did not know of and got to practise a bunch. Starting to get confident with the commands.
 
   Version Control with Git:
     - What's the difference between Git and GitHub?
-      Git is the version control software meaning it makes the push, pull and all the other actions work to communicate with one and another.
-      Github is the service company that we could visually access through website.
+        Git is the version control software meaning it makes the push, pull and all the other actions work to communicate with one and another.
+        Github is the service company that we could visually access through website.
     
     - Can you think of an analogy to describe them?
-      Not a perfect analogy, but Github could be the social media we use everyday lives like Facebook and Git could be the software used for it.
+        Not a perfect analogy, but Github could be the social media we use everyday lives like Facebook and Git could be the software used for it.
 
     - Do you think you would still remember the difference a week from now if you didn't revisit the material?
-      Yes, I believe I've understand the difference between the two well enough.
+        Yes, I believe I've understand the difference between the two well enough.
     
     - Did you stick to the timebox suggestions? If not, why not?
-      Yes, I managed my time well.
-
+        Yes, I managed my time well.
+  
+  Install and Explore Git:
+    - What is a Git workflow?
+        A Git workflow is a recipe or recommendation for how to use Git to accomplish work in a consistent and productive manner.
     
+    - What did you notice about your learning? What did you do when you were confused or blocked?
+        I played around with the terminal, tried things that I was curious about and searched on Google.
+
+    - Is there anything you'd do differently if you were to repeat the learning exploration?
+        I was happy with my exploration on learning commands and about gits.
+        Only thing that I was not following was I guess building my own directory structures of the workspace.
+
 
 Human Skills:
