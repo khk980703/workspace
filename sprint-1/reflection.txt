@@ -44,6 +44,10 @@ Tech :
     - Is there anything you'd do differently if you were to repeat the learning exploration?
         I was happy with my exploration on learning commands and about gits.
         Only thing that I was not following was I guess building my own directory structures of the workspace.
+  
+  Track and Commit:
+    - How would you describe stage and commit to your non-tech-savvy friend?
+        I would explain it something like, stage is like an unapproved work and commit is approved work.
 
 
 Human Skills:
